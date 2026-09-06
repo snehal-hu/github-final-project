@@ -14,4 +14,3 @@ Output
 ```
 
 _© 2022 XYZ, Inc. All rights reserved._
-Typo fix for the project.
